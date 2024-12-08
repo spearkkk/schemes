@@ -1,22 +1,22 @@
 # Deep Oceanic Next scheme for the Base16 Builder
 system: "base16"
 name: "Deep Oceanic Next"
-author: "spearkkk (https://github.com/spearkkk/deep-oceanic-next)"
+author: "spearkkk (https://github.com/spearkkk)"
 variant: "dark"
 palette:
-  base00: "003b46" #  ----
-  base01: "004f5e" #  ---
-  base02: "006374" #  --
-  base03: "007a8a" #  -
+  base00: "001c1f" #  ----
+  base01: "002931" #  ---
+  base02: "003640" #  --
+  base03: "004852" #  -
   base04: "0093a3" #  +
-  base05: "dce3e8" #  ++
-  base06: "e6ebf0" #  +++
-  base07: "f0f5f5" #  ++++
-  base08: "e6454b" #  red
-  base09: "ff6a4b" #  orange
-  base0A: "ffcc66" #  yellow
-  base0B: "85b57a" #  green
-  base0C: "4da6a6" #  aqua
-  base0D: "3a82e6" #  blue
-  base0E: "8c4de6" #  purple
-  base0F: "e673a3" #  brown
+  base05: "d4e1e8" #  ++
+  base06: "e0e9ef" #  +++
+  base07: "f2f7f9" #  ++++
+  base08: "d3464d" #  red
+  base09: "e37552" #  orange
+  base0A: "f3b863" #  yellow
+  base0B: "63b784" #  green
+  base0C: "4fb7ae" #  aqua
+  base0D: "568ccf" #  blue
+  base0E: "8b66d6" #  purple
+  base0F: "d0658e" #  brown
